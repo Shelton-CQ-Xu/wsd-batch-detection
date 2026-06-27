@@ -37,14 +37,3 @@ Each experiment compares the WSD-based p-value against standard baselines: movin
 - All reported numbers are mean ± s.d. over **20 independent seeds** (0–19); results are reproducible up to negligible Monte-Carlo variation in the last digit.
 - Per-run cost is modest on a standard CPU (see Table 13 in the paper).
 
-## Citation
-
-```bibtex
-@inproceedings{xu2026wasserstein,
-  title     = {A Wasserstein Framework for Abnormal Batch Detection in
-               Streaming Data under Distributional Heterogeneity},
-  author    = {Xu, Chenqin and Yao, Yisha},
-  booktitle = {STAI-X},
-  year      = {2026}
-}
-```
